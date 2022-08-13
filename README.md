@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idybest&label=Profile%20views&color=0e75b6&style=flat" alt="idybest" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idybest" alt="idybest" /></a> </p>
-
 - 🔭 I’m currently working on [Azure Cognitive Search Service Application](https://github.com/Idybest/Azure-Cognitive-Search-Demo-App)
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on **Data Analytics**
+- 👯 View my certifications [https://www.credly.com/earner/earned](https://www.credly.com/earner/earned)
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Idybest](https://github.com/Idybest)
 
